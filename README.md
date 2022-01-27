@@ -1,2 +1,2 @@
 # Conformal-Mapping
-Transforming one shape to another via conformal mapping
+In this project, the aim is to make a program that transforms one shape to another via conformal mapping. It then will measure the "distance" between two shapes by calculating the total stretching required to transform one shape into the other. Given a collection of shapes, it will use hierarchial clustering to group them based on these distances, placing similar shapes in clusters together.
